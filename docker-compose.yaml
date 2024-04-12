@@ -2,6 +2,7 @@ version: '3'
 services:
   # my-app:
   # image: ${docker-registry}/my-app:1.0
+  # image: docker pull seyiemel/seyimages:jsapp-1.0
   # ports:
   # - 3000:3000
   mongodb:
